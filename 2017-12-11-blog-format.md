@@ -1,6 +1,6 @@
 ---
 title: Blog format
-date: 2017-12-11 20:48:00
+date: 2017-12-11 20:48:00 -0800
 tags: meta
 author: brandonrisell
 layout: blog
